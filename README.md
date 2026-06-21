@@ -22,7 +22,8 @@ This tool is made for **educational purposes and authorized security testing onl
 ```bash
 git clone https://github.com/adityainfose/Python-Port-Scanner.git
 cd Python-Port-Scanner
-python3 port_scanner.py## 📌 Scan Options
+python3 port_scanner.py
+## 📌 Scan Options
 
 1 → Quick Scan (common ports)  
 2 → Custom Range Scan (example: 1-1000)  
