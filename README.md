@@ -23,6 +23,7 @@ This tool is made for **educational purposes and authorized security testing onl
 git clone https://github.com/adityainfose/Python-Port-Scanner.git
 cd Python-Port-Scanner
 python3 port_scanner.py
+---
 ## 📌 Scan Options
 
 1 → Quick Scan (common ports)  
