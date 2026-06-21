@@ -16,12 +16,6 @@ It scans a target IP or hostname, detects open TCP ports, identifies services, a
 This tool is made for **educational purposes and authorized security testing only**.
 ## 🚀 Installation & Run
 
-### 1️⃣ Clone Repository
-```bash
-git clone https://github.com/adityainfose/Python-Port-Scanner.git
-cd Python-Port-Scanner
-python3 port_scanner.py
-
 ---
 
 ## 🎯 Features
