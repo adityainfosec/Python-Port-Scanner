@@ -61,7 +61,9 @@ Extra options:
 | 143 | IMAP |
 | 443 | HTTPS |
 | 3306 | MySQL |
-| 3389 | RDP |---
+| 3389 | RDP |
+
+---
 
 ## ⚠️ Disclaimer
 
