@@ -30,6 +30,7 @@ Python Port Scanner is a multithreaded TCP port scanner built for authorized sec
 git clone https://github.com/adityainfosec/Python-Port-Scanner.git
 cd Python-Port-Scanner
 python3 port_scanner.py
+
 ---
 ## 📌 Scan Options
 
