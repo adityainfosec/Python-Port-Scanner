@@ -1,38 +1,28 @@
-# 🔍 Python Port Scanner
+# 🔍 Python Advanced Port Scanner
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS-lightgrey.svg)
+![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-green.svg)
+![Status](https://img.shields.io/badge/Status-Active-success.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ---
 
 ## 📖 Overview
 
-Python Port Scanner is a multithreaded TCP port scanner built for authorized security testing and learning. It supports banner grabbing, service detection, and JSON/CSV export with an easy interactive menu.
+Python Advanced Port Scanner is a command-line tool built using Python socket programming and multithreading.
+
+It scans a target IP or hostname, detects open TCP ports, identifies services, and optionally grabs service banners.
+
+This tool is made for **educational purposes and authorized security testing only**.
 
 ---
 
-## ✨ Features
-
-- Multithreaded scanning for speed
-- Banner grabbing (detect service versions)
-- Three scan modes: Quick, Custom Range, Full (1-65535)
-- 80+ service detection
-- JSON and CSV export
-- Color-coded terminal output
-- No external dependencies required
-
----
-
-## 🚀 Installation
+## 🚀 Installation & Run
 
 ```bash
-git clone https://github.com/adityainfosec/Python-Port-Scanner.git
+git clone https://github.com/adityainfose/Python-Port-Scanner.git
 cd Python-Port-Scanner
-python3 port_scanner.py
-
----
-## 📌 Scan Options
+python3 port_scanner.py## 📌 Scan Options
 
 1 → Quick Scan (common ports)  
 2 → Custom Range Scan (example: 1-1000)  
@@ -52,6 +42,7 @@ Extra options:
 - Threading  
 - Queue Module  
 - JSON & CSV Handling  
+
 ---
 
 ## 🌐 Common Ports
@@ -68,8 +59,7 @@ Extra options:
 | 143 | IMAP |
 | 443 | HTTPS |
 | 3306 | MySQL |
-| 3389 | RDP |
----
+| 3389 | RDP |---
 
 ## ⚠️ Disclaimer
 
